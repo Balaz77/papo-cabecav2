@@ -1,0 +1,7 @@
+{
+  "name": "papo-cabecav2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
